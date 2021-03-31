@@ -3,7 +3,7 @@
  <img width="200" src="https://d33wubrfki0l68.cloudfront.net/6b19a409f82c8c0c94fff2c927f4dc5bb3291ccd/b93d3/img/logo.svg" alt="React Avançado Logo"></a>
 </p>
 
-<h3 align="center">React Avançado CMS</h3>
+<h3 align="center">React Avançado</h3>
 
 <div align="center">
 
